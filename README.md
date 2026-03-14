@@ -7,7 +7,7 @@ Users can register, log in, create alerts, view their alerts, delete alerts, and
 ---
 ## Live API
 
-https://alertforge.onrender.com/docs
+https://alertforge-backend.onrender.com/docs
 
 ## Features
 
