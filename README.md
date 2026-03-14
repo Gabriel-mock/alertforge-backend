@@ -5,6 +5,9 @@ AlertForge is a **backend system for cryptocurrency price alerts** built with **
 Users can register, log in, create alerts, view their alerts, delete alerts, and automatically check whether live crypto prices meet alert conditions.
 
 ---
+## Live API
+
+https://alertforge.onrender.com/docs
 
 ## Features
 
